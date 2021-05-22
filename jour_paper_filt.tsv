@@ -1,0 +1,77 @@
+TOSEM	2021	1	Test Selection for Deep Learning Systems.t
+TOSEM	2021	1	Interpreting Deep Learning-based Vulnerability Detector Predictions Based on Heuristic Searching.t
+TOSEM	2020	1	Practical Accuracy Estimation for Efficient Deep Neural Network Testing.t
+TOSEM	2019	1	Neural Network-based Detection of Self-Admitted Technical Debt: From Performance to Explainability.t
+TSE	2020	1	Machine Learning-Based Prototyping of Graphical User Interfaces for Mobile Apps.t
+TSE	2019	1	A Deep Learning Model for Estimating Story Points.t
+TSE	2018	1	Authors' Reply to "Comments on 'Researcher Bias: The Use of Machine Learning in Software Defect Prediction'".t
+TSE	2016	1	Comments on "Researcher Bias: The Use of Machine Learning in Software Defect Prediction".t
+IST	2021	1	On the influence of model fragment properties on a machine learning-based approach for feature location.t
+IST	2021	1	Performance analysis of out-of-distribution detection on trained neural networks.t
+IST	2021	1	Boundary sampling to boost mutation testing for deep learning models.t
+IST	2021	1	A study of effectiveness of deep learning in locating real faults.t
+IST	2021	1	Improving high-impact bug report prediction with combination of interactive machine learning and active learning.t
+IST	2020	1	Ontology-based test generation for automated and autonomous driving functions.t
+IST	2020	1	A systematic literature review of machine learning techniques for software maintainability prediction.t
+IST	2020	1	Deep learning model for end-to-end approximation of COSMIC functional size based on use-case names.t
+IST	2020	1	Neural networks learn to detect and emulate sorting algorithms from images of their execution traces.t
+IST	2020	1	Large-scale machine learning systems in real-world industrial settings: A review of challenges and solutions.t
+IST	2020	1	Assessing safety-critical systems from operational testing: A study on autonomous vehicles.t
+IST	2019	1	Improving bug localization with word embedding and enhanced convolutional neural networks.t
+IST	2019	1	Combining Automated GUI Exploration of Android apps with Capture and Replay through Machine Learning.t
+IST	2019	1	Machine learning techniques for code smell detection: A systematic literature review and meta-analysis.t
+IST	2018	1	Improving code readability classification using convolutional neural networks.t
+IST	2016	1	A functional reference architecture for autonomous driving.t
+IST	2016	1	Effective detection of android malware based on the usage of data flow APIs and machine learning.t
+JSS	2021	1	Convolutional neural networks for enhanced classification mechanisms of metamodels.t
+JSS	2021	1	GEML: A grammar-based evolutionary machine learning approach for design-pattern detection.t
+JSS	2021	1	Multilayered review of safety approaches for machine learning-based systems in the days of AI.t
+JSS	2020	1	Model checking of in-vehicle networking systems with CAN and FlexRay.t
+JSS	2020	1	QMM-VANET: An efficient clustering algorithm based on QoS and monitoring of malicious vehicles in vehicular ad hoc networks.t
+JSS	2020	1	Improving software bug-specific named entity recognition with deep neural network.t
+JSS	2020	1	ThermoSim: Deep learning based framework for modeling and simulation of thermal-aware resource management for cloud computing environments.t
+JSS	2020	1	Uncertainty modeling and runtime verification for autonomous vehicles driving control: A machine learning-based approach.t
+JSS	2020	1	The impact factors on the performance of machine learning-based vulnerability detection: A comparative study.t
+JSS	2020	1	A machine learning based framework for code clone validation.t
+JSS	2020	1	Capturing creative requirements via requirements reuse: A machine learning-based approach.t
+JSS	2020	1	CommtPst: Deep learning source code for commenting positions prediction.t
+JSS	2020	1	TagDC: A tag recommendation method for software information sites with a combination of deep learning and collaborative filtering.t
+JSS	2019	1	Augmenting Java method comments generation with context information based on neural networks.t
+JSS	2019	1	DeepLink: Recovering issue-commit links based on deep learning.t
+JSS	2018	1	New deep learning method to detect code injection attacks on hybrid applications.t
+JSS	2018	1	An effective approach for software project effort and duration estimation with machine learning algorithms.t
+JSS	2018	1	Adaptive generation of challenging scenarios for testing and evaluation of autonomous vehicles.t
+JSS	2018	1	Efficient graph pattern matching framework for network-based in-vehicle fault detection.t
+JSS	2017	1	Employing traditional machine learning algorithms for big data streams analysis: The case of object trajectory prediction.t
+JSS	2016	1	A machine learning based software process model recommendation method.t
+JSS	2016	1	Hybrid functional link artificial neural network approach for predicting maintainability of object-oriented software.t
+ESE	2021	1	An exploratory study on the introduction and removal of different types of technical debt in deep learning frameworks.t
+ESE	2021	1	Automated end-to-end management of the modeling lifecycle in deep learning.t
+ESE	2020	1	What do Programmers Discuss about Deep Learning Frameworks.t
+ESE	2020	1	Testing machine learning based systems: a systematic mapping.t
+ESE	2020	1	Automated demarcation of requirements in textual specifications: a machine learning-based approach.t
+ESE	2019	1	What can Android mobile app developers do about the energy consumption of machine learning?t
+ESE	2019	1	Domain-specific machine translation with recurrent neural network for software localization.t
+ESE	2016	1	Empirical assessment of machine learning-based malware detectors for Android - Measuring the gap between in-the-lab and in-the-wild validation scenarios.t
+ESE	2016	1	Comparing and experimenting machine learning techniques for code smell detection.t
+ESE	2016	1	Automated bug assignment: Ensemble-based machine learning in large scale industrial contexts.t
+SPE	2021	1	Evaluating system architectures for driving range estimation and charge planning for electric vehicles.t
+SPE	2021	1	Senti-eSystem: A sentiment-based eSystem-using hybridized fuzzy and deep neural network for measuring customer satisfaction.t
+SPE	2021	1	A graph-based convolutional neural network stock price prediction with leading indicators.t
+SPE	2021	1	Software reuse analytics using integrated random forest and gradient boosting machine learning algorithm.t
+SPE	2021	1	Leveraging machine learning for software redocumentation - A comprehensive comparison of methods in practice.t
+SPE	2020	1	Cloud-aided online EEG classification system for brain healthcare: A case study of depression evaluation with a lightweight CNN.t
+SPE	2020	1	Intelligent sentiment analysis approach using edge computing-based deep learning technique.t
+SPE	2020	1	Timing isolation and improved scheduling of deep neural networks for real-time systems.t
+SPE	2020	1	R2D2: A scalable deep learning toolkit for medical imaging segmentation.t
+SPE	2020	1	Joint computation offloading and resource provisioning for edge-cloud computing environment: A machine learning-based approach.t
+SPE	2020	1	Integrated machine learning with semantic web for open government data recommendation based on cloud computing.t
+SPE	2019	1	Face detection based on multilayer feed-forward neural network and Haar features.t
+SPE	2019	1	Cloud-based video analytics using convolutional neural networks.t
+SPE	2019	1	Deep learning the semantics of change sequences for query expansion.t
+SPE	2017	1	Deep learning and SVM-based emotion recognition from Chinese speech for smart affective services.t
+STVR	2018	1	Neural network for software reliability analysis of dynamically weighted NHPP growth models with imperfect debugging.t
+STVR	2016	1	Predicting metamorphic relations for testing scientific software: a machine learning approach using graph kernels.t
+ASE journals	2020	1	Understanding machine learning software defect predictions.t
+ASE journals	2019	1	Automatic B-model repair using model checking and machine learning.t
+ASE journals	2017	1	An Architecture based on interactive optimization and machine learning applied to the next release problem.t
