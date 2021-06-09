@@ -1,0 +1,8 @@
+.vscode/
+data/
+logs/
+papers_missed/
+*.csv
+*.tsv
+*.json
+*.txt
